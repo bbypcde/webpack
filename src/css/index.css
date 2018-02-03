@@ -1,0 +1,6 @@
+body{
+    background:red url(./../images/app_qr.png);
+    /* ./为当前文件夹，此为css,../为倒退到src文件,不这样写就报错 */
+    transform:rotate(30deg);
+    
+}
